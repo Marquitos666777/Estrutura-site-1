@@ -87,8 +87,8 @@
 </div>
 
 <div class="bloco-flutuante">
-    <h2>Newsletter</h2>
-    <p>Assine nossa newsletter para receber atualizações sobre a saúde mental e estresse.</p>
+    <h2>Facebook</h2>
+    <p>Assine a nossa página do facebook para receber atualizações sobre a saúde mental e estresse.</p>
     <form>
         <input type="email" placeholder="Digite seu e-mail" style="width: 100%; padding: 10px;">
         <input type="submit" value="Assinar" class="botao" style="width: 100%;">
