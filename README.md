@@ -6,8 +6,7 @@
 <title>Aplicativos e recursos para gerenciamento de estresse e saúde mental</title>
 <style>
     body {
-        background-image: url(![image](https://github.com/Marquitos666777/Estrutura-site-1/assets/132093013/253c5d15-c09a-4ee6-ab6e-c511100929b1)
- .jpg'); /* Imagem de fundo */
+        background-image: url ('![image](https://github.com/Marquitos666777/Estrutura-site-1/assets/132093013/16c5239f-db4a-4009-92b6-07ccfac6f2c8.jpg'); /* Imagem de fundo */
         background-size: cover;
         font-family: Arial, sans-serif;
         margin: 0;
