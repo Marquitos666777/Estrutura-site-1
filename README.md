@@ -78,17 +78,17 @@
     <p>Gerenciar o estresse é fundamental para manter a saúde mental e física. Estratégias incluem identificar gatilhos, praticar técnicas de relaxamento, exercitar-se regularmente, estabelecer limites saudáveis, priorizar tarefas, manter uma dieta equilibrada, buscar apoio social e praticar o autocuidado. É um processo individual e contínuo, exigindo experimentação para encontrar o que funciona melhor.
 </p>
     <img src="robotica_saude.jpg" alt="Robótica na Saúde" class="imagem">
-    <p>Robôs cirúrgicos, por exemplo, permitem procedimentos mais precisos e menos invasivos, resultando em tempos de recuperação mais rápidos para os pacientes.</p>
+    <p>a saúde mental é extremamente importante. Ela afeta como pensamos, sentimos e agimos em nossa vida diária. Uma boa saúde mental permite lidar com o estresse, tomar decisões, manter relacionamentos saudáveis ​​e buscar o bem-estar geral. É fundamental cuidar da saúde mental tanto quanto da saúde física.</p>
     <div class="video">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/NrPZ1W_LmWc" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315"src=[](https://youtu.be/KsfR1bIxmQw)" frameborder="0" allowfullscreen></iframe>
     </div>
-    <p>Para saber mais sobre como a robótica está revolucionando a saúde, clique no botão abaixo:</p>
+    <p>Para saber mais sobre como a saúde memtal e estresse no dia a dia:</p>
     <a href="mais_informacoes.html" class="botao">Mais Informações</a>
 </div>
 
 <div class="bloco-flutuante">
     <h2>Newsletter</h2>
-    <p>Assine nossa newsletter para receber atualizações sobre robótica na saúde.</p>
+    <p>Assine nossa newsletter para receber atualizações sobre a saúde mental e estresse.</p>
     <form>
         <input type="email" placeholder="Digite seu e-mail" style="width: 100%; padding: 10px;">
         <input type="submit" value="Assinar" class="botao" style="width: 100%;">
