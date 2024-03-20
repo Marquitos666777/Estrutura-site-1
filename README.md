@@ -77,7 +77,7 @@
     <h1>Gerenciamento de estresse</h1>
     <p>Gerenciar o estresse é fundamental para manter a saúde mental e física. Estratégias incluem identificar gatilhos, praticar técnicas de relaxamento, exercitar-se regularmente, estabelecer limites saudáveis, priorizar tarefas, manter uma dieta equilibrada, buscar apoio social e praticar o autocuidado. É um processo individual e contínuo, exigindo experimentação para encontrar o que funciona melhor.
 </p>
-    <img src="robotica_saude.jpg" alt="Robótica na Saúde" class="imagem">
+    <img src="images.jpg" alt="Robótica na Saúde" class="imagem">
     <p>a saúde mental é extremamente importante. Ela afeta como pensamos, sentimos e agimos em nossa vida diária. Uma boa saúde mental permite lidar com o estresse, tomar decisões, manter relacionamentos saudáveis ​​e buscar o bem-estar geral. É fundamental cuidar da saúde mental tanto quanto da saúde física.</p>
     <div class="video">
         <iframe width="560" height="315"src=[](https://youtu.be/KsfR1bIxmQw)" frameborder="0" allowfullscreen></iframe>
