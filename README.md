@@ -79,7 +79,7 @@
     <p>reduzimos a necessidade de extração de matérias-primas, economizamos energia e evitamos a acumulação de resíduos nos aterros sanitários.
 </p>
     <img src="images.jpg" alt="Robótica na Saúde" class="imagem">
-    <p>a saúde mental é extremamente importante. Ela afeta como pensamos, sentimos e agimos em nossa vida diária. Uma boa saúde mental permite lidar com o estresse, tomar decisões, manter relacionamentos saudáveis ​​e buscar o bem-estar geral. É fundamental cuidar da saúde mental tanto quanto da saúde física.</p>
+    <p>a reciclagem é o processo de reaproveitamento de materiais descartados. Seu objetivo é reintroduzi-los na cadeia produtiva a fim de que ainda gerem valor e sejam reutilizados, aumentando a preservação dos recursos naturais e melhorando a qualidade de vida das pessoas.</p>
     <div class="video">
         <iframe width="560" height="315"src=[]https://m.youtube.com/watch?v=9UnwROI3sUQ&pp=ygURUmVjaWNsYWdlbSBVcmJhbmE%3D" frameborder="0" allowfullscreen></iframe>
     </div>
