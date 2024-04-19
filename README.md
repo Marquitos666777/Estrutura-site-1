@@ -6,7 +6,8 @@
 <title>Reciclagem Urbana</title>
 <style>
     body {
-        background-image: url ('![image](https://github.com/Marquitos666777/Estrutura-site-1/assets/132093013/16c5239f-db4a-4009-92b6-07ccfac6f2c8.jpg'); /* Imagem de fundo */
+        background-image: url (![image])(https://github.com/Marquitos666777/Estrutura-site-1/assets/132093013/73558cad-4566-4143-9124-dd8374b4485a) 
+  ); /* Imagem de fundo */
         background-size: cover;
         font-family: Arial, sans-serif;
         margin: 0;
