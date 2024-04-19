@@ -81,15 +81,15 @@
     <img src="images.jpg" alt="Robótica na Saúde" class="imagem">
     <p>a saúde mental é extremamente importante. Ela afeta como pensamos, sentimos e agimos em nossa vida diária. Uma boa saúde mental permite lidar com o estresse, tomar decisões, manter relacionamentos saudáveis ​​e buscar o bem-estar geral. É fundamental cuidar da saúde mental tanto quanto da saúde física.</p>
     <div class="video">
-        <iframe width="560" height="315"src=[](https://youtu.be/KsfR1bIxmQw)" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315"src=[]https://m.youtube.com/watch?v=9UnwROI3sUQ&pp=ygURUmVjaWNsYWdlbSBVcmJhbmE%3D" frameborder="0" allowfullscreen></iframe>
     </div>
-    <p>Para saber mais sobre como a saúde memtal e estresse no dia a dia:</p>
+    <p>Para saber mais sobre como a Reciclagem urbana age no seu dia a dia:</p>
     <a href="mais_informacoes.html" class="botao">Mais Informações</a>
 </div>
 
 <div class="bloco-flutuante">
     <h2>Facebook</h2>
-    <p>Assine a nossa página do facebook para receber atualizações sobre a saúde mental e estresse.</p>
+    <p>Assine a nossa página do facebook para receber atualizações sobre a reciclagem Urbana.</p>
     <form>
         <input type="email" placeholder="Digite seu e-mail" style="width: 100%; padding: 10px;">
         <input type="submit" value="Assinar" class="botao" style="width: 100%;">
