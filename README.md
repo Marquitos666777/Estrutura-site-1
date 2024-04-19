@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Aplicativos e recursos para gerenciamento de estresse e saúde mental</title>
+<title>Reciclagem Urbana</title>
 <style>
     body {
         background-image: url ('![image](https://github.com/Marquitos666777/Estrutura-site-1/assets/132093013/16c5239f-db4a-4009-92b6-07ccfac6f2c8.jpg'); /* Imagem de fundo */
@@ -74,8 +74,8 @@
 </head>
 <body>
 <div id="container">
-    <h1>Gerenciamento de estresse</h1>
-    <p>Gerenciar o estresse é fundamental para manter a saúde mental e física. Estratégias incluem identificar gatilhos, praticar técnicas de relaxamento, exercitar-se regularmente, estabelecer limites saudáveis, priorizar tarefas, manter uma dieta equilibrada, buscar apoio social e praticar o autocuidado. É um processo individual e contínuo, exigindo experimentação para encontrar o que funciona melhor.
+    <h1>Qual a importância da reciclagem urbana?</h1>
+    <p>reduzimos a necessidade de extração de matérias-primas, economizamos energia e evitamos a acumulação de resíduos nos aterros sanitários.
 </p>
     <img src="images.jpg" alt="Robótica na Saúde" class="imagem">
     <p>a saúde mental é extremamente importante. Ela afeta como pensamos, sentimos e agimos em nossa vida diária. Uma boa saúde mental permite lidar com o estresse, tomar decisões, manter relacionamentos saudáveis ​​e buscar o bem-estar geral. É fundamental cuidar da saúde mental tanto quanto da saúde física.</p>
